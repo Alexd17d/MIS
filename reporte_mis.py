@@ -98,7 +98,7 @@ with open(ruta_archivo, "r") as archivo:
             else:
                 reinspecciones_autos_nuevos += 1
 
-        # --- LÓGICA DE CALENDARIO DE PLACAS (KPI 8) ---
+        # LÓGICA DE CALENDARIO DE PLACAS (KPI 8) 
         try:
             ultimo_digito = int(placa[-1])
             saturacion_placa[ultimo_digito] += 1
@@ -165,7 +165,7 @@ plt.title('KPI 3: Distribución del Parque Automotor Registrado')
 plt.savefig('data/kpi3.png')
 plt.close()
 
-# --- NUEVO KPI 5: TASA DE RECHAZO CRÍTICO POR ANTIGÜEDAD COMBINADA ---
+# KPI 5: TASA DE RECHAZO CRÍTICO POR ANTIGÜEDAD COMBINADA
 plt.figure(figsize=(6, 4))
 valores_kpi5 = [reinspecciones_autos_viejos, reinspecciones_autos_nuevos]
 plt.bar(['Modelos Viejos (>15 años)', 'Modelos Nuevos (<=15 años)'], valores_kpi5, color=['#e67e22', '#3498db'])
