@@ -8,7 +8,7 @@ Para ejecutar el Dashboard interactivo con los 8 KPIs segmentados de forma corre
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 42px; height: 42px; margin-right: 18px;">
     <div style="text-align: left;">
       <span style="display: block; color: #52a0fd; font-size: 11px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 2px;">Google Colab Environment</span>
-      <span style="display: block; color: #ffffff; font-size: 19px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; letter-spacing: 0.5px;">🚀 CLIC AQUÍ: ABRIR DASHBOARD INTERACTIVO</span>
+      <span style="display: block; color: #ffffff; font-size: 19px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; letter-spacing: 0.5px;">CLIC : ABRIR DASHBOARD INTERACTIVO</span>
     </div>
   </div>
 </a>
